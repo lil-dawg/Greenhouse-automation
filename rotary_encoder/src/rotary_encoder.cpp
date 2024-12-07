@@ -17,7 +17,7 @@
 // =========================================================================
 
 // I/O PORT ALLOCATIONS ----------------------------------------------------
-const int BTN_BACK = 3;
+const int BTN_BACK = 8;
 const int BTN_UP = 4;
 const int BTN_DOWN = 5;
 const int BTN_PLUS = 6;
