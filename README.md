@@ -18,4 +18,4 @@ display with i<sup>2</sup>c shield
 * Good to know: The dallasTemperature library is super slow and has to use non-blocking methods, will block the code otherwise
 
 ## Sources
-[Guide for menu](https://www.youtube.com/watch?v=1B8TZdXDVYc)  
+[Inspiration for menu](https://www.youtube.com/watch?v=1B8TZdXDVYc)  
